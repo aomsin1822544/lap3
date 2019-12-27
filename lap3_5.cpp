@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 { 
+    
     string text1;
     string text2;
     int N;
